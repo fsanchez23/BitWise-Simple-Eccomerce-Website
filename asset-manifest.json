@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-final-project/static/css/main.5999ea25.css",
+    "main.js": "/react-final-project/static/js/main.ba899d1a.js",
+    "static/js/787.6ba6b6a5.chunk.js": "/react-final-project/static/js/787.6ba6b6a5.chunk.js",
+    "index.html": "/react-final-project/index.html",
+    "static/media/cart-shopping-solid.svg": "/react-final-project/static/media/cart-shopping-solid.03a706e9d6046b4ad90dd2af5508a635.svg",
+    "main.5999ea25.css.map": "/react-final-project/static/css/main.5999ea25.css.map",
+    "main.ba899d1a.js.map": "/react-final-project/static/js/main.ba899d1a.js.map",
+    "787.6ba6b6a5.chunk.js.map": "/react-final-project/static/js/787.6ba6b6a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5999ea25.css",
+    "static/js/main.ba899d1a.js"
+  ]
+}
